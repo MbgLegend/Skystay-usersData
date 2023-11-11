@@ -1,0 +1,22 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "username": "guest123",
+      "image_url": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+      "isGuest": true,
+      "hotels": [],
+      "email": "guest123@hotmail.com",
+      "password": "guest@123"
+    },
+    {
+      "id": 2,
+      "username": "safafsasffasfas",
+      "email": "fasfasfsafa@dfadsgf",
+      "password": "sfggsdgsdg",
+      "image_url": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+      "isGuest": false,
+      "hotels": []
+    }
+  ]
+}
